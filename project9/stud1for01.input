@@ -1,0 +1,11 @@
+set verbose
+mkfs
+
+mkdir kangaroo
+touch pear
+mkdir platypus
+touch papaya
+touch orange
+
+cd kangaroo
+pwd
