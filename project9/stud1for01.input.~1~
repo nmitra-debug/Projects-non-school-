@@ -1,0 +1,42 @@
+set verbose
+mkfs
+
+mkdir CMSC216
+touch syllabus
+mkdir test
+mkdir project
+
+cd test
+pwd
+
+mkdir public
+mkdir secret
+touch comments
+
+cd public
+pwd
+
+cd ..
+cd ..
+
+cd project
+
+touch project01
+mkdir header
+
+cd header
+
+mkdir driverH
+touch testH
+
+cd driverH
+pwd
+
+cd ..
+pwd
+
+cd ..
+pwd
+
+cd ..
+pwd

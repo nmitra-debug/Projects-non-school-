@@ -1,0 +1,20 @@
+% 
+% mkfs
+
+% mkdir CMSC216
+
+% touch syllabus
+
+% mkdir test
+
+% mkdir project
+
+% cd test
+
+% pwd
+/test
+
+% cd ..
+
+% pwd
+/
